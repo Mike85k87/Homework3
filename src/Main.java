@@ -7,8 +7,8 @@ public class Main {
         long d = 4345;
         float e = 4.45f;
         double t = 345.567;
-        System.out.println("Значение переменной a с типом byte равно …"+a);
-        System.out.println("Значение переменной b с типом short равно …"+b);
-        System.out.println("Значение переменной c с типом int равно …"+c);
+        System.out.println("Значение переменной a с типом byte равно "+a);
+        System.out.println("Значение переменной b с типом short равно "+b);
+        System.out.println("Значение переменной c с типом int равно "+c);
     }
 }
